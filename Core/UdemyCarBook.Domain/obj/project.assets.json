@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yibif\\source\\repos\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
       "projectName": "UdemyCarBook.Domain",
-      "projectPath": "C:\\Users\\Yibif\\source\\repos\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
+      "projectPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
       "packagesPath": "C:\\Users\\Yibif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yibif\\source\\repos\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
