@@ -9,3 +9,15 @@ C:\Users\Yibif\source\repos\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8
 C:\Users\Yibif\source\repos\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\refint\UdemyCarBook.Domain.dll
 C:\Users\Yibif\source\repos\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.pdb
 C:\Users\Yibif\source\repos\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\ref\UdemyCarBook.Domain.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.deps.json
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfoInputs.cache
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfo.cs
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.sourcelink.json
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\refint\UdemyCarBook.Domain.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Domain\obj\Debug\net8.0\ref\UdemyCarBook.Domain.dll
