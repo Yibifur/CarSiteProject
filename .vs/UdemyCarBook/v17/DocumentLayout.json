@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\features\\cqrs\\handlers\\abouthandlers\\getaboutqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\cqrs\\handlers\\abouthandlers\\getaboutqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\features\\cqrs\\queries\\aboutqueries\\getaboutbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\cqrs\\queries\\aboutqueries\\getaboutbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\features\\cqrs\\results\\aboutresults\\getaboutbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\cqrs\\results\\aboutresults\\getaboutbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\features\\cqrs\\results\\aboutresults\\getaboutqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\cqrs\\results\\aboutresults\\getaboutqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B19443-4C7F-4A2A-B5C9-7DD061713362}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\infrastructure\\udemycarbook.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B19443-4C7F-4A2A-B5C9-7DD061713362}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|solutionrelative:infrastructure\\udemycarbook.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +47,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetAboutQueryhandler.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutQueryhandler.cs",
+              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutQueryhandler.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutQueryhandler.cs",
+              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutQueryhandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:36:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAboutByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Queries\\AboutQueries\\GetAboutByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Queries\\AboutQueries\\GetAboutByIdQuery.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Queries\\AboutQueries\\GetAboutByIdQuery.cs",
+              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Queries\\AboutQueries\\GetAboutByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:33:51.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAboutByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutByIdQueryResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:32:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAboutQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutQueryResult.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutQueryResult.cs",
+              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Results\\AboutResults\\GetAboutQueryResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:11:09.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:46:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T01:44:24.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CarBookContext.cs",
               "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Infrastructure\\UdemyCarBook.Persistence\\Context\\CarBookContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\UdemyCarBook.Persistence\\Context\\CarBookContext.cs",
@@ -47,8 +132,7 @@
               "RelativeToolTip": "Infrastructure\\UdemyCarBook.Persistence\\Context\\CarBookContext.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAuwA4AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T00:29:56.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T00:29:56.599Z"
             }
           ]
         },

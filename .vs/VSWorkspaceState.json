@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Core",
+    "\\Core\\UdemyCarBook.Application",
+    "\\Core\\UdemyCarBook.Application\\Interfaces"
   ],
-  "SelectedNode": "\\UdemyCarBook.sln",
+  "SelectedNode": "\\Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
   "PreviewInSolutionExplorer": false
 }

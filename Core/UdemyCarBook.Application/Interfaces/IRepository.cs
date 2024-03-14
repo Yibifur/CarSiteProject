@@ -12,6 +12,6 @@ namespace UdemyCarBook.Application.Interfaces
         Task<T> GetByIDAsync(int id); 
         Task CreateAsync(T entity); 
         Task UpdateAsync(T entity);
-        Task RemoveAsync(int id);
+        Task RemoveAsync(T entity);
     }
 }
