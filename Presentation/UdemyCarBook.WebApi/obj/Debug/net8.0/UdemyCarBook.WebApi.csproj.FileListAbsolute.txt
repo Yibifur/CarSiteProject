@@ -279,3 +279,5 @@ C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\UdemyCarBook.WebApi.pdb
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\UdemyCarBook.WebApi.genruntimeconfig.cache
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\ref\UdemyCarBook.WebApi.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\UdemyCarBook.Application.pdb

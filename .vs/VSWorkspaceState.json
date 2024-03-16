@@ -3,8 +3,12 @@
     "",
     "\\Core",
     "\\Core\\UdemyCarBook.Application",
+    "\\Core\\UdemyCarBook.Application\\Features",
+    "\\Core\\UdemyCarBook.Application\\Features\\CQRS",
+    "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers",
+    "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers",
     "\\Core\\UdemyCarBook.Application\\Interfaces"
   ],
-  "SelectedNode": "\\Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
+  "SelectedNode": "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutQueryhandler.cs",
   "PreviewInSolutionExplorer": false
 }

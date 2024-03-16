@@ -891,6 +891,14 @@
           }
         }
       },
+      "UdemyCarBook.Application/1.0.0": {
+        "dependencies": {
+          "UdemyCarBook.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UdemyCarBook.Application.dll": {}
+        }
+      },
       "UdemyCarBook.Domain/1.0.0": {
         "runtime": {
           "UdemyCarBook.Domain.dll": {}
@@ -900,6 +908,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1",
+          "UdemyCarBook.Application": "1.0.0",
           "UdemyCarBook.Domain": "1.0.0"
         },
         "runtime": {
@@ -1473,6 +1482,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "UdemyCarBook.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "UdemyCarBook.Domain/1.0.0": {
       "type": "project",

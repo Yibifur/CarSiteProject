@@ -1,0 +1,16 @@
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.deps.json
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.AssemblyReference.cache
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.AssemblyInfoInputs.cache
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.AssemblyInfo.cs
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.sourcelink.json
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCar.7CD4E403.Up2Date
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\refint\UdemyCarBook.Application.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Core\UdemyCarBook.Application\obj\Debug\net8.0\ref\UdemyCarBook.Application.dll

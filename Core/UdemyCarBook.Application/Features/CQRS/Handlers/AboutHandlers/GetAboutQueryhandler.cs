@@ -9,11 +9,11 @@ using UdemyCarBook.Domain.Entities;
 
 namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers
 {
-    public class GetAboutQueryhandler
+    public class GetAboutQueryHandler
     {
         private readonly IRepository<About> _aboutRepository;
 
-        public GetAboutQueryhandler(IRepository<About> aboutRepository)
+        public GetAboutQueryHandler(IRepository<About> aboutRepository)
         {
             _aboutRepository = aboutRepository;
         }
