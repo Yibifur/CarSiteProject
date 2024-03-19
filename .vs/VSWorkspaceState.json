@@ -7,8 +7,10 @@
     "\\Core\\UdemyCarBook.Application\\Features\\CQRS",
     "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers",
     "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers",
-    "\\Core\\UdemyCarBook.Application\\Interfaces"
+    "\\Core\\UdemyCarBook.Application\\Interfaces",
+    "\\Presentation",
+    "\\Presentation\\UdemyCarBook.WebApi"
   ],
-  "SelectedNode": "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\GetAboutQueryhandler.cs",
+  "SelectedNode": "\\Presentation\\UdemyCarBook.WebApi\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
