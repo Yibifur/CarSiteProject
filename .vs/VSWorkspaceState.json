@@ -6,7 +6,6 @@
     "\\Core\\UdemyCarBook.Application\\Features",
     "\\Core\\UdemyCarBook.Application\\Features\\CQRS",
     "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers",
-    "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers",
     "\\Core\\UdemyCarBook.Application\\Interfaces",
     "\\Presentation",
     "\\Presentation\\UdemyCarBook.WebApi"

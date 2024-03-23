@@ -1,6 +1,7 @@
 using UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers;
 using UdemyCarBook.Application.Features.CQRS.Handlers.BannerHandlers;
 using UdemyCarBook.Application.Features.CQRS.Handlers.BrandHandler;
+using UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers;
 using UdemyCarBook.Application.Interfaces;
 using UdemyCarBook.Domain.Entities;
 using UdemyCarBook.Persistence.Context;
@@ -27,6 +28,12 @@ builder.Services.AddScoped<GetBrandQueryHandler>();
 builder.Services.AddScoped<RemoveBrandCommandHandler>();
 builder.Services.AddScoped<CreateBrandCommandHandler>();
 builder.Services.AddScoped<UpdateBrandCommandHandler>();
+//Car
+builder.Services.AddScoped<GetCarByIdQueryHandler>();
+builder.Services.AddScoped<GetCarQueryHandler>();
+builder.Services.AddScoped<RemoveCarCommandHandler>();
+builder.Services.AddScoped<CreateCarCommandHandler>();
+builder.Services.AddScoped<UpdateCarCommandHandler>();
 // Add services to the container.
 
 builder.Services.AddControllers();
