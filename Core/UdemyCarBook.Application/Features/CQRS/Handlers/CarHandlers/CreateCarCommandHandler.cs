@@ -22,8 +22,8 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
             await _carRepository.CreateAsync(new Car
             {
                 
+               
                 BrandID = command.BrandID,
-                Brand = command.Brand,
                 Model = command.Model,
                 CoverImageUrl = command.CoverImageUrl,
                 Kilometer = command.Kilometer,
@@ -32,9 +32,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
                 Luggage = command.Luggage,
                 Fuel = command.Fuel,
                 BigImageUrl = command.BigImageUrl,
-                CarFeatures = command.CarFeatures,
-                CarDescriptions = command.CarDescriptions,
-                CarPricings = command.CarPricings
+               
             });
         }
     }

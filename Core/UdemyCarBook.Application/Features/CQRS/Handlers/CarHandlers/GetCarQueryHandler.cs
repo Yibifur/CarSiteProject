@@ -24,7 +24,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
             {
                  CarID =x.CarID,
                  BrandID =x.BrandID,
-                 Brand =x.Brand,
+                 
                  Model =x.Model,
                  CoverImageUrl=x.CoverImageUrl,
                  Kilometer =x.Kilometer,
@@ -33,9 +33,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
                 Luggage =x.Luggage,
                  Fuel =x.Fuel,
                  BigImageUrl =x.BigImageUrl,
-                    CarFeatures =x.CarFeatures,
-                    CarDescriptions =x.CarDescriptions,
-                        CarPricings =x.CarPricings 
+                     
        
     }).ToList();
             

@@ -24,7 +24,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
             var entity = await _carRepository.GetByIDAsync(command.CarID);
             entity.CarID = command.CarID;
             entity.BrandID = command.BrandID;
-            entity.Brand = command.Brand;
+           
             entity.Model = command.Model;
             entity.CoverImageUrl = command.Model;
             entity.Kilometer= command.Kilometer;
@@ -33,9 +33,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
             entity.Luggage= command.Luggage;
             entity.Fuel= command.Fuel;
             entity.BigImageUrl= command.BigImageUrl;
-            entity.CarPricings = command.CarPricings;
-            entity.CarFeatures = command.CarFeatures;
-            entity.CarDescriptions = command.CarDescriptions;
+            
             await _carRepository.UpdateAsync(entity);
         }
     }

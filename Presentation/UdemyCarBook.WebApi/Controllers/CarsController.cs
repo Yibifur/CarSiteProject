@@ -18,19 +18,27 @@ namespace UdemyCarBook.WebApi.Controllers
         private readonly RemoveCarCommandHandler removeCarCommandHandler;
         private readonly CreateCarCommandHandler createCarCommandHandler;
         private readonly UpdateCarCommandHandler updateCarCommandHandler;
+        private readonly GetCarWithBrandQueryHandler getCarWithBrandQueryHandler;
 
-        public CarsController(GetCarByIdQueryHandler getCarByIdQueryHandler, GetCarQueryHandler getCarQueryHandler, RemoveCarCommandHandler removeCarCommandHandler, CreateCarCommandHandler createCarCommandHandler, UpdateCarCommandHandler updateCarCommandHandler)
+        public CarsController(GetCarByIdQueryHandler getCarByIdQueryHandler, GetCarQueryHandler getCarQueryHandler, RemoveCarCommandHandler removeCarCommandHandler, CreateCarCommandHandler createCarCommandHandler, UpdateCarCommandHandler updateCarCommandHandler, GetCarWithBrandQueryHandler getCarWithBrandQueryHandler)
         {
             this.getCarByIdQueryHandler = getCarByIdQueryHandler;
             this.getCarQueryHandler = getCarQueryHandler;
             this.removeCarCommandHandler = removeCarCommandHandler;
             this.createCarCommandHandler = createCarCommandHandler;
             this.updateCarCommandHandler = updateCarCommandHandler;
+            this.getCarWithBrandQueryHandler = getCarWithBrandQueryHandler;
         }
         [HttpGet]
         public async Task<IActionResult> CarList()
         {
             var values = await getCarQueryHandler.Handle();
+            return Ok(values);
+        }
+        [HttpGet("GetCarWithBrand")]
+        public IActionResult GetCarWithBrand()
+        {
+            var values =  getCarWithBrandQueryHandler.Handle();
             return Ok(values);
         }
         [HttpGet("{id}")]
