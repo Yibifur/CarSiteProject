@@ -43,19 +43,19 @@ namespace UdemyCarBook.WebApi.Controllers
         public async Task<IActionResult> CreateAbout(CreateAboutCommand command)
         {
             await _createAboutCommandHandler.Handle(command);
-            return Ok("Başarılı bir şekilde About eklendi");
+            return Ok("Başarılı bir şekilde Categories eklendi");
         }
         [HttpPut]
         public async Task<IActionResult> UpdateAbout(UpdateAboutCommand command)
         {
             await _updateAboutCommandHandler.Handle(command);
-            return Ok("Başarılı bir şekilde About güncellendi");
+            return Ok("Başarılı bir şekilde Categories güncellendi");
         }
         [HttpDelete]
         public async Task<IActionResult> RemoveAbout(int id)
         {
             await _removeAboutCommandHandler.Handle(new RemoveAboutCommand(id));
-            return Ok("Başarılı bir şekilde About silindi");
+            return Ok("Başarılı bir şekilde Categories silindi");
         }
     }
 }

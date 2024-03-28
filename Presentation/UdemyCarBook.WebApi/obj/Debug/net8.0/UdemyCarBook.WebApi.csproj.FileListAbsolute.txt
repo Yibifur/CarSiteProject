@@ -281,3 +281,6 @@ C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\ref\UdemyCarBook.WebApi.dll
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\UdemyCarBook.Application.dll
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

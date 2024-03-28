@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "KREyngM2wUEI5Uv8dbDX2V3ZEcNY3BqayjeNKJjX/klT3C0DUtZ03CKgx3yH8wqlovRUPuKIRTwq0a0iSJP3Cg==",
+  "dgSpecHash": "Gmb7PB8nIKEc90cw22ivlhnncjKZNQb0Jq0TDCWKpiDjJ0bnp16uSYVPEk5h3qWZmNxnrFrDtcqV5/JYZx4+MQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\yibif\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\yibif\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\yibif\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\yibif\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yibif\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yibif\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0, MediatR (>= 11.0.0 && < 12.0.0) gerektiriyor ancak sürüm MediatR 12.2.0 çözümlenmiş.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
