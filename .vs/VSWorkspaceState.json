@@ -8,7 +8,8 @@
     "\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers",
     "\\Core\\UdemyCarBook.Application\\Interfaces",
     "\\Presentation",
-    "\\Presentation\\UdemyCarBook.WebApi"
+    "\\Presentation\\UdemyCarBook.WebApi",
+    "\\Presentation\\UdemyCarBook.WebApi\\Controllers"
   ],
   "SelectedNode": "\\UdemyCarBook.sln",
   "PreviewInSolutionExplorer": false
