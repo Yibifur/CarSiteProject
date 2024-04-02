@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\features\\mediator\\handlers\\pricinghandlers\\getpricingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\mediator\\handlers\\pricinghandlers\\getpricingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEA6AD6A-424E-4266-AD98-689311700532}|Presentation\\UdemyCarBook.WebApi\\UdemyCarBook.WebApi.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\presentation\\udemycarbook.webapi\\controllers\\pricingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA6AD6A-424E-4266-AD98-689311700532}|Presentation\\UdemyCarBook.WebApi\\UdemyCarBook.WebApi.csproj|solutionrelative:presentation\\udemycarbook.webapi\\controllers\\pricingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA6AD6A-424E-4266-AD98-689311700532}|Presentation\\UdemyCarBook.WebApi\\UdemyCarBook.WebApi.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\presentation\\udemycarbook.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA6AD6A-424E-4266-AD98-689311700532}|Presentation\\UdemyCarBook.WebApi\\UdemyCarBook.WebApi.csproj|solutionrelative:presentation\\udemycarbook.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F81C913-7BA2-4861-8843-357910556A9F}|Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.domain\\entities\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +30,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetPricingQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers\\PricingHandlers\\GetPricingQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers\\PricingHandlers\\GetPricingQueryHandler.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers\\PricingHandlers\\GetPricingQueryHandler.cs",
-              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers\\PricingHandlers\\GetPricingQueryHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBwAAAANAAAA",
+              "DocumentIndex": 1,
+              "Title": "FooterAddressController.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Presentation\\UdemyCarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "RelativeDocumentMoniker": "Presentation\\UdemyCarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Presentation\\UdemyCarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "RelativeToolTip": "Presentation\\UdemyCarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T06:14:52.737Z",
+              "WhenOpened": "2024-04-02T09:26:00.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "PricingsController.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Presentation\\UdemyCarBook.WebApi\\Controllers\\PricingsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\UdemyCarBook.WebApi\\Controllers\\PricingsController.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Presentation\\UdemyCarBook.WebApi\\Controllers\\PricingsController.cs",
+              "RelativeToolTip": "Presentation\\UdemyCarBook.WebApi\\Controllers\\PricingsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:25:57.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pricing.cs",
               "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Domain\\Entities\\Pricing.cs",
               "RelativeDocumentMoniker": "Core\\UdemyCarBook.Domain\\Entities\\Pricing.cs",
