@@ -15,7 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyCarBook.WebApi", "Presentation\UdemyCarBook.WebApi\UdemyCarBook.WebApi.csproj", "{AEA6AD6A-424E-4266-AD98-689311700532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCarBook.Application", "Core\UdemyCarBook.Application\UdemyCarBook.Application.csproj", "{40D1A57A-961C-430D-867C-11864F968FF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyCarBook.Application", "Core\UdemyCarBook.Application\UdemyCarBook.Application.csproj", "{40D1A57A-961C-430D-867C-11864F968FF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontends", "Frontends", "{607C570D-4AF6-4C3E-BA4F-EA72EFAC6110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCarBook.WebUI", "Frontends\UdemyCarBook.WebUI\UdemyCarBook.WebUI.csproj", "{29D11C82-7083-471E-87D3-DAEECA9ABEB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,10 @@ Global
 		{40D1A57A-961C-430D-867C-11864F968FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D1A57A-961C-430D-867C-11864F968FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D1A57A-961C-430D-867C-11864F968FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D11C82-7083-471E-87D3-DAEECA9ABEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D11C82-7083-471E-87D3-DAEECA9ABEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D11C82-7083-471E-87D3-DAEECA9ABEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D11C82-7083-471E-87D3-DAEECA9ABEB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{D2B19443-4C7F-4A2A-B5C9-7DD061713362} = {E470E702-22D6-4772-9E67-FA84D46621FE}
 		{AEA6AD6A-424E-4266-AD98-689311700532} = {04F493D0-759F-46CE-B3A7-E679BDB8EE1F}
 		{40D1A57A-961C-430D-867C-11864F968FF2} = {D6FE54BB-B286-435B-A72F-6CAE13E9174B}
+		{29D11C82-7083-471E-87D3-DAEECA9ABEB6} = {607C570D-4AF6-4C3E-BA4F-EA72EFAC6110}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C54F1A7-A64B-4B4F-83FF-4F0B680F8047}

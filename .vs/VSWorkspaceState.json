@@ -7,10 +7,14 @@
     "\\Core\\UdemyCarBook.Application\\Features\\Mediator",
     "\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers",
     "\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers\\PricingHandlers",
+    "\\Frontends",
+    "\\Frontends\\UdemyCarBook.WebUI",
+    "\\Frontends\\UdemyCarBook.WebUI\\Views",
+    "\\Frontends\\UdemyCarBook.WebUI\\Views\\Home",
     "\\Presentation",
     "\\Presentation\\UdemyCarBook.WebApi",
     "\\Presentation\\UdemyCarBook.WebApi\\Controllers"
   ],
-  "SelectedNode": "\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers\\PricingHandlers\\GetPricingQueryHandler.cs",
+  "SelectedNode": "\\Frontends\\UdemyCarBook.WebUI\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
