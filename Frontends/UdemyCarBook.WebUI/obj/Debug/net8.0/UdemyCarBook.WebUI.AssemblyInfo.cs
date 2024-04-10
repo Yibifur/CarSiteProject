@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyCarBook.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bf611990e16e87b96db816a64cdf5d44460c8d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44d97ac0e619c5731effc28fe8e8a140d046d771")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyCarBook.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyCarBook.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

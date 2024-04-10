@@ -1,20 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Core",
-    "\\Core\\UdemyCarBook.Application",
-    "\\Core\\UdemyCarBook.Application\\Features",
-    "\\Core\\UdemyCarBook.Application\\Features\\Mediator",
-    "\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers",
-    "\\Core\\UdemyCarBook.Application\\Features\\Mediator\\Handlers\\PricingHandlers",
     "\\Frontends",
     "\\Frontends\\UdemyCarBook.WebUI",
     "\\Frontends\\UdemyCarBook.WebUI\\Views",
-    "\\Frontends\\UdemyCarBook.WebUI\\Views\\Home",
+    "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared",
+    "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components",
+    "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_HeadUILayoutComponentPartial",
     "\\Presentation",
     "\\Presentation\\UdemyCarBook.WebApi",
     "\\Presentation\\UdemyCarBook.WebApi\\Controllers"
   ],
-  "SelectedNode": "\\Frontends\\UdemyCarBook.WebUI\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_HeadUILayoutComponentPartial\\Default.cshtml",
   "PreviewInSolutionExplorer": false
 }
