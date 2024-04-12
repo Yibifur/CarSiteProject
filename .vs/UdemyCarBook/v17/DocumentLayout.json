@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\uilayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\views\\shared\\components\\_maincoveruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\shared\\components\\_maincoveruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\viewcomponents\\uilayout\\_footeruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\viewcomponents\\uilayout\\_footeruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\viewcomponents\\uilayout\\_maincoveruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\viewcomponents\\uilayout\\_maincoveruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\views\\shared\\components\\_footeruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\shared\\components\\_footeruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,35 +40,35 @@
               "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\About\\Index.cshtml",
               "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T00:16:56.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_MainCoverUILayoutComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_MainCoverUILayoutComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_MainCoverUILayoutComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_MainCoverUILayoutComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T00:14:34.415Z",
+              "WhenOpened": "2024-04-12T14:12:55.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_MainCoverUILayoutComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_MainCoverUILayoutComponentPartial.cs",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_MainCoverUILayoutComponentPartial.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_MainCoverUILayoutComponentPartial.cs",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_MainCoverUILayoutComponentPartial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_FooterUILayoutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_FooterUILayoutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_FooterUILayoutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_FooterUILayoutComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T14:08:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_FooterUILayoutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_FooterUILayoutComponentPartial.cs",
+              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_FooterUILayoutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_FooterUILayoutComponentPartial.cs",
+              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\ViewComponents\\UILayout\\_FooterUILayoutComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T00:12:43.831Z",
+              "WhenOpened": "2024-04-12T14:07:02.108Z",
               "EditorCaption": ""
             },
             {
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
               "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
               "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-09T16:20:10.141Z",
               "EditorCaption": ""
