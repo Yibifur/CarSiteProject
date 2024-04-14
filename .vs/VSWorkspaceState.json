@@ -4,6 +4,7 @@
     "\\Frontends",
     "\\Frontends\\UdemyCarBook.WebUI",
     "\\Frontends\\UdemyCarBook.WebUI\\Views",
+    "\\Frontends\\UdemyCarBook.WebUI\\Views\\About",
     "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared",
     "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components",
     "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_HeadUILayoutComponentPartial",
@@ -12,6 +13,6 @@
     "\\Presentation\\UdemyCarBook.WebApi",
     "\\Presentation\\UdemyCarBook.WebApi\\Controllers"
   ],
-  "SelectedNode": "\\Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
+  "SelectedNode": "\\Frontends\\UdemyCarBook.WebUI\\Views\\About\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
