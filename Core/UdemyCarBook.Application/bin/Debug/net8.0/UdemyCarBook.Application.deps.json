@@ -78,7 +78,10 @@
       },
       "UdemyCarBook.Domain/1.0.0": {
         "runtime": {
-          "UdemyCarBook.Domain.dll": {}
+          "UdemyCarBook.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

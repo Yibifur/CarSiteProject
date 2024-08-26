@@ -1,18 +1,19 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Core",
+    "\\Core\\UdemyCarBook.Application",
+    "\\Core\\UdemyCarBook.Application\\Services",
     "\\Frontends",
     "\\Frontends\\UdemyCarBook.WebUI",
     "\\Frontends\\UdemyCarBook.WebUI\\Views",
-    "\\Frontends\\UdemyCarBook.WebUI\\Views\\About",
     "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared",
     "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components",
-    "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_HeadUILayoutComponentPartial",
-    "\\Frontends\\UdemyCarBook.WebUI\\Views\\UILayout",
+    "\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_BecomeADriverComponentPartial",
     "\\Presentation",
     "\\Presentation\\UdemyCarBook.WebApi",
     "\\Presentation\\UdemyCarBook.WebApi\\Controllers"
   ],
-  "SelectedNode": "\\Frontends\\UdemyCarBook.WebUI\\Views\\About\\Index.cshtml",
+  "SelectedNode": "\\Core\\UdemyCarBook.Application\\Services\\ServiceRegistiration.cs",
   "PreviewInSolutionExplorer": false
 }

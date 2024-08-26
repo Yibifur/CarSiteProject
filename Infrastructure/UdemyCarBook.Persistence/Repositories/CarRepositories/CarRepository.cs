@@ -26,5 +26,11 @@ namespace UdemyCarBook.Persistence.Repositories.CarRepositories
             var values=carBookContext.Cars.Include(x => x.Brand).ToList();
             return  values;
         }
+
+        public List<Car> GetLastNumCarWithBrand(int num)
+        {
+           var values=carBookContext.Cars.OrderByDescending(x=>x.CarID).Take(num).ToList();
+            return values;
+        }
     }
 }

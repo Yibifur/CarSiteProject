@@ -26,7 +26,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
             {
                 CarID = values.CarID,
                 BrandID = values.BrandID,
-                
+                BrandName = values.BrandName,
                 Model = values.Model,
                 CoverImageUrl = values.CoverImageUrl,
                 Kilometer=values.Kilometer,

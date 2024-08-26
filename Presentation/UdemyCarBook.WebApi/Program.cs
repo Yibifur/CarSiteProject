@@ -4,6 +4,7 @@ using UdemyCarBook.Application.Features.CQRS.Handlers.BrandHandler;
 using UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers;
 using UdemyCarBook.Application.Features.CQRS.Handlers.CategoryHandlers;
 using UdemyCarBook.Application.Features.CQRS.Handlers.ContactHandlers;
+using UdemyCarBook.Application.Features.Mediator.Handlers.TesimonialHandlers;
 using UdemyCarBook.Application.Interfaces;
 using UdemyCarBook.Application.Interfaces.CarInterfaces;
 using UdemyCarBook.Application.Services;
@@ -53,6 +54,12 @@ builder.Services.AddScoped<GetContactQueryHandler>();
 builder.Services.AddScoped<RemoveContactCommandHandler>();
 builder.Services.AddScoped<CreateContactCommandHandler>();
 builder.Services.AddScoped<UpdateContactCommandHandler>();
+//Testimonial
+builder.Services.AddScoped<GetTestimonialByIdQueryHandler>();
+builder.Services.AddScoped<GetTestimonialQueryHandler>();
+builder.Services.AddScoped<RemoveTestimonialCommandHandler>();
+builder.Services.AddScoped<CreateTestimonialCommandHandler>();
+builder.Services.AddScoped<UpdateTestimonialCommandHandler>();
 // Add services to the container.
 builder.Services.AddApplicationServices(builder.Configuration);
 builder.Services.AddControllers();

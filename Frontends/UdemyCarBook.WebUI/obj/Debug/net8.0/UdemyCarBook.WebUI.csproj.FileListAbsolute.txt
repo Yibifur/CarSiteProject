@@ -224,3 +224,12 @@ C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\obj\Debug\net8.0\UdemyCarBook.WebUI.csproj.AssemblyReference.cache
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\obj\Debug\net8.0\UdemyCar.3FF3DB25.Up2Date
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Dto.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Dto.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\MediatR.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Frontends\UdemyCarBook.WebUI\bin\Debug\net8.0\UdemyCarBook.Domain.pdb

@@ -7,7 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\UdemyCarBook.Application\UdemyCarBook.Application.csproj" />
+    <ProjectReference Include="..\..\Core\UdemyCarBook.Domain\UdemyCarBook.Domain.csproj" />
+    <ProjectReference Include="..\UdemyCarBook.Dto\UdemyCarBook.Dto.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Testimonial\" />
   </ItemGroup>
 
 </Project>
