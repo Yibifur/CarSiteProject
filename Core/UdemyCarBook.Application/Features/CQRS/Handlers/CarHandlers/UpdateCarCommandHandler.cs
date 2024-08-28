@@ -24,7 +24,6 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
             var entity = await _carRepository.GetByIDAsync(command.CarID);
             entity.CarID = command.CarID;
             entity.BrandID = command.BrandID;
-           entity.BrandName = command.BrandName;
             entity.Model = command.Model;
             entity.CoverImageUrl = command.Model;
             entity.Kilometer= command.Kilometer;

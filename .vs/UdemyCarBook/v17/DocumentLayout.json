@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2B19443-4C7F-4A2A-B5C9-7DD061713362}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\infrastructure\\udemycarbook.persistence\\repositories\\carrepositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2B19443-4C7F-4A2A-B5C9-7DD061713362}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|solutionrelative:infrastructure\\udemycarbook.persistence\\repositories\\carrepositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\features\\cqrs\\handlers\\carhandlers\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\features\\cqrs\\handlers\\carhandlers\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2B19443-4C7F-4A2A-B5C9-7DD061713362}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\infrastructure\\udemycarbook.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2B19443-4C7F-4A2A-B5C9-7DD061713362}|Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj|solutionrelative:infrastructure\\udemycarbook.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\core\\udemycarbook.application\\interfaces\\carinterfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D1A57A-961C-430D-867C-11864F968FF2}|Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj|solutionrelative:core\\udemycarbook.application\\interfaces\\carinterfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\views\\shared\\components\\_defaultcoveruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\shared\\components\\_defaultcoveruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\viewcomponents\\defaultviewcomponents\\_defaultcoveruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\viewcomponents\\defaultviewcomponents\\_defaultcoveruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\views\\uilayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\uilayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,131 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\CarRepositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\CarRepositories\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\CarRepositories\\CarRepository.cs",
-              "RelativeToolTip": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\CarRepositories\\CarRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:51:05.085Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:34:17.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateCarCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\CarHandlers\\CreateCarCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\CarHandlers\\CreateCarCommandHandler.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\CarHandlers\\CreateCarCommandHandler.cs",
-              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Features\\CQRS\\Handlers\\CarHandlers\\CreateCarCommandHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:50:42.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:50:22.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Infrastructure\\UdemyCarBook.Persistence\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:50:08.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Interfaces\\CarInterfaces\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "Core\\UdemyCarBook.Application\\Interfaces\\CarInterfaces\\ICarRepository.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Core\\UdemyCarBook.Application\\Interfaces\\CarInterfaces\\ICarRepository.cs",
-              "RelativeToolTip": "Core\\UdemyCarBook.Application\\Interfaces\\CarInterfaces\\ICarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:48:42.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_DefaultCoverUILayoutComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_DefaultCoverUILayoutComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_DefaultCoverUILayoutComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\Shared\\Components\\_DefaultCoverUILayoutComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T14:17:56.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_DefaultCoverUILayoutComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\ViewComponents\\DefaultViewComponents\\_DefaultCoverUILayoutComponentPartial.cs",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\ViewComponents\\DefaultViewComponents\\_DefaultCoverUILayoutComponentPartial.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\ViewComponents\\DefaultViewComponents\\_DefaultCoverUILayoutComponentPartial.cs",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\ViewComponents\\DefaultViewComponents\\_DefaultCoverUILayoutComponentPartial.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:15:20.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\UILayout\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T14:06:14.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T14:02:42.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:01:34.718Z",
+              "WhenOpened": "2024-08-28T10:34:10.39Z",
               "EditorCaption": ""
             }
           ]

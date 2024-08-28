@@ -19,8 +19,9 @@ namespace UdemyCarBook.WebApi.Controllers
         private readonly CreateCarCommandHandler createCarCommandHandler;
         private readonly UpdateCarCommandHandler updateCarCommandHandler;
         private readonly GetCarWithBrandQueryHandler getCarWithBrandQueryHandler;
+        private readonly GetLast5CarQueryHandler getLast5CarQueryHandler;
 
-        public CarsController(GetCarByIdQueryHandler getCarByIdQueryHandler, GetCarQueryHandler getCarQueryHandler, RemoveCarCommandHandler removeCarCommandHandler, CreateCarCommandHandler createCarCommandHandler, UpdateCarCommandHandler updateCarCommandHandler, GetCarWithBrandQueryHandler getCarWithBrandQueryHandler)
+        public CarsController(GetCarByIdQueryHandler getCarByIdQueryHandler, GetCarQueryHandler getCarQueryHandler, RemoveCarCommandHandler removeCarCommandHandler, CreateCarCommandHandler createCarCommandHandler, UpdateCarCommandHandler updateCarCommandHandler, GetCarWithBrandQueryHandler getCarWithBrandQueryHandler, GetLast5CarQueryHandler getLast5CarQueryHandler)
         {
             this.getCarByIdQueryHandler = getCarByIdQueryHandler;
             this.getCarQueryHandler = getCarQueryHandler;
@@ -28,6 +29,7 @@ namespace UdemyCarBook.WebApi.Controllers
             this.createCarCommandHandler = createCarCommandHandler;
             this.updateCarCommandHandler = updateCarCommandHandler;
             this.getCarWithBrandQueryHandler = getCarWithBrandQueryHandler;
+            this.getLast5CarQueryHandler = getLast5CarQueryHandler;
         }
         [HttpGet]
         public async Task<IActionResult> CarList()
@@ -39,6 +41,12 @@ namespace UdemyCarBook.WebApi.Controllers
         public IActionResult GetCarWithBrand()
         {
             var values =  getCarWithBrandQueryHandler.Handle();
+            return Ok(values);
+        }
+        [HttpGet("GetLast5Cars")]
+        public IActionResult GetLast5Cars()
+        {
+            var values = getLast5CarQueryHandler.Handle();
             return Ok(values);
         }
         [HttpGet("{id}")]
