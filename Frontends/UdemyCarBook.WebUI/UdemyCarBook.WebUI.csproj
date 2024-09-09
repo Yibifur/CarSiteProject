@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewComponents\BlogViewComponents\" />
     <Folder Include="Views\Testimonial\" />
   </ItemGroup>
 

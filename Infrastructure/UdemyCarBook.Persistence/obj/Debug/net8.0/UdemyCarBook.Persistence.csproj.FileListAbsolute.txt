@@ -19,7 +19,9 @@ C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persi
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Persistence.runtimeconfig.json
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Persistence.dll
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Persistence.pdb
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Application.dll
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Application.pdb
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.csproj.AssemblyReference.cache
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
@@ -33,5 +35,3 @@ C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persi
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.pdb
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.genruntimeconfig.cache
 C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\ref\UdemyCarBook.Persistence.dll
-C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Application.dll
-C:\Users\yibif\Documents\GitHub\CarSiteProject\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Application.pdb

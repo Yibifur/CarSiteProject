@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\frontends\\udemycarbook.webui\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D11C82-7083-471E-87D3-DAEECA9ABEB6}|Frontends\\UdemyCarBook.WebUI\\UdemyCarBook.WebUI.csproj|solutionrelative:frontends\\udemycarbook.webui\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEA6AD6A-424E-4266-AD98-689311700532}|Presentation\\UdemyCarBook.WebApi\\UdemyCarBook.WebApi.csproj|c:\\users\\yibif\\documents\\github\\carsiteproject\\presentation\\udemycarbook.webapi\\controllers\\tagcloudscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA6AD6A-424E-4266-AD98-689311700532}|Presentation\\UdemyCarBook.WebApi\\UdemyCarBook.WebApi.csproj|solutionrelative:presentation\\udemycarbook.webapi\\controllers\\tagcloudscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T10:34:17.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAsAAAAAAAAAA==",
+              "Title": "TagCloudsController.cs",
+              "DocumentMoniker": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Presentation\\UdemyCarBook.WebApi\\Controllers\\TagCloudsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\UdemyCarBook.WebApi\\Controllers\\TagCloudsController.cs",
+              "ToolTip": "C:\\Users\\yibif\\Documents\\GitHub\\CarSiteProject\\Presentation\\UdemyCarBook.WebApi\\Controllers\\TagCloudsController.cs",
+              "RelativeToolTip": "Presentation\\UdemyCarBook.WebApi\\Controllers\\TagCloudsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T10:34:10.39Z",
+              "WhenOpened": "2024-09-09T08:55:14.459Z",
               "EditorCaption": ""
             }
           ]

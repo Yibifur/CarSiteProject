@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Core",
-    "\\Core\\UdemyCarBook.Application",
-    "\\Core\\UdemyCarBook.Application\\Services",
     "\\Frontends",
     "\\Frontends\\UdemyCarBook.WebUI",
     "\\Frontends\\UdemyCarBook.WebUI\\Views",
@@ -14,6 +11,6 @@
     "\\Presentation\\UdemyCarBook.WebApi",
     "\\Presentation\\UdemyCarBook.WebApi\\Controllers"
   ],
-  "SelectedNode": "\\Core\\UdemyCarBook.Application\\Services\\ServiceRegistiration.cs",
+  "SelectedNode": "\\Frontends\\UdemyCarBook.WebUI\\Controllers\\BlogController.cs",
   "PreviewInSolutionExplorer": false
 }

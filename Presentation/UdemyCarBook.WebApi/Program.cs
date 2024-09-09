@@ -7,6 +7,7 @@ using UdemyCarBook.Application.Features.CQRS.Handlers.ContactHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.AuthorHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.BlogHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.CarPricingHandlers;
+using UdemyCarBook.Application.Features.Mediator.Handlers.TagCloudHandlers;
 using UdemyCarBook.Application.Features.Mediator.Handlers.TesimonialHandlers;
 using UdemyCarBook.Application.Features.Mediator.Queries.BlogQueries;
 using UdemyCarBook.Application.Interfaces;
@@ -87,6 +88,13 @@ builder.Services.AddScoped<CreateAuthorCommandHandler>();
 builder.Services.AddScoped<UpdateAuthorCommandHandler>();
 //CarPricing
 builder.Services.AddScoped<GetCarPricingWithCarsQueryHandler>();
+//TagCloud
+builder.Services.AddScoped<GetTagCloudByIdQueryHandler>();
+builder.Services.AddScoped<GetTagCloudsQueryHandler>();
+builder.Services.AddScoped<RemoveTagCloudCommandHandler>();
+builder.Services.AddScoped<CreateTagCloudCommandHandler>();
+builder.Services.AddScoped<UpdateTagCloudCommandHandler>();
+
 // Add services to the container.
 builder.Services.AddApplicationServices(builder.Configuration);
 builder.Services.AddControllers();

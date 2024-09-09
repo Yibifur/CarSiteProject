@@ -26,5 +26,9 @@ namespace UdemyCarBook.WebUI.Controllers
             }
             return View();
         }
+        public async Task<IActionResult> BlogDetails(int id)
+        {
+            return View();
+        }
     }
 }
